@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-report-app/static/css/main.f44a9ff4.css",
+    "main.js": "/weather-report-app/static/js/main.49caf19d.js",
+    "static/js/453.730bc351.chunk.js": "/weather-report-app/static/js/453.730bc351.chunk.js",
+    "index.html": "/weather-report-app/index.html",
+    "main.f44a9ff4.css.map": "/weather-report-app/static/css/main.f44a9ff4.css.map",
+    "main.49caf19d.js.map": "/weather-report-app/static/js/main.49caf19d.js.map",
+    "453.730bc351.chunk.js.map": "/weather-report-app/static/js/453.730bc351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44a9ff4.css",
+    "static/js/main.49caf19d.js"
+  ]
+}
